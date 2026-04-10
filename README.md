@@ -1,3 +1,3 @@
-# DSIDataViz_SallyChoi
+# DSI-Data-Visualization-Coursework
 
-A repository of my in-class code-along R scripts for DSI's Data Visualization course.
+A repository of my in-class code-along R scripts and assignments for the Data Science Institute's Data Visualization course.
